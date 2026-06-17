@@ -50,10 +50,6 @@ Activate the virtual environment:
 
 .\.venv\Scripts\activate
 
-On macOS / Linux:
-
-source .venv/bin/activate
-
 Run the application:
 
 python smart file assistant 2.py
