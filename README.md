@@ -5,19 +5,19 @@ A desktop application built with Python and Tkinter to help you analyze, manage,
 
 **1. Features**
 
-Comprehensive Directory Scans
+* Comprehensive Directory Scans
 
-Change Tracking
+* Change Tracking
  
-Interactive GUI
+* Interactive GUI
 
-Search and Filter
+* Search and Filter
 
-Sort by Extension
+* Sort by Extension
 
-One-Click Archiving
+* One-Click Archiving
 
-Persistent State
+* Persistent State
 
 **2. System Architecture**
 
@@ -25,37 +25,35 @@ The application is designed with a modular architecture that separates the user 
 
 **3. Technologies Used**
 
-This project was built entirely with Python.
-
 Language: Python 3
 
 GUI Framework: Tkinter
+
 Core Libraries:os, json, shutil, datetime
 
 **4. Setup and Installation**
 
-Clone the repository
+* Clone the repository
 
 git clone https://github.com/Chippo90/Software-and-AI.git
 
-Navigate to the project directory:
+* Navigate to the project directory:
 
 cd Smart-File-Assistant
 
-Create a virtual environment:
+* Create a virtual environment:
 
 python -m venv .venv
 
-Activate the virtual environment:
+* Activate the virtual environment:
 
 .\.venv\Scripts\activate
 
-Run the application:
+* Run the application:
 
 python smart file assistant 2.py
 
 **5. How to Use**
-Select a Folder: 
 
 Select Folder to Scan button to choose the directory you want to analyze.
 
