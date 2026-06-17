@@ -25,11 +25,11 @@ The application is designed with a modular architecture that separates the user 
 
 **3. Technologies Used**
 
-Language: Python 3
+* Language: Python 3
 
-GUI Framework: Tkinter
+* GUI Framework: Tkinter
 
-Core Libraries:os, json, shutil, datetime
+* Core Libraries: os, json, shutil, datetime
 
 **4. Setup and Installation**
 
