@@ -1,6 +1,6 @@
 **Smart File Assistant**
 
-A desktop application built with Python and Tkinter to help you analyze, manage, and organize your files intelligently. This tool automates the tedious process of cleaning up digital clutter by providing AI-driven recommendations and interactive tools.
+A desktop application built with Python and Tkinter to help analyze, manage, and organize your files intelligently. This tool automates the process of cleaning up digital clutter by providing AI driven recommendations and interactive tools.
 
 
 **1. Features**
@@ -73,7 +73,7 @@ Archive Files: Click the Archive Recommended Files button.
 
 Duplicate File Detection: Implement a feature to find and manage duplicate files.
 
-Advanced Classification: Use machine learning to automatically categorize files (e.g., "Invoices," "Photos," "Source Code").
+Advanced Classification: Use machine learning to automatically categorize files.
 
 
 **7. License**
