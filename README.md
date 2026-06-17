@@ -36,7 +36,7 @@ Core Libraries:os, json, shutil, datetime
 
 Clone the repository
 
-git clone https://github.com/your-username/Smart-File-Assistant.git
+git clone https://github.com/Chippo90/Software-and-AI.git
 
 Navigate to the project directory:
 
